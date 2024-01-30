@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnhHazz
 - 👀 I’m interested in Robotics
-- 🌱 I’m currently learning ROS2
-- 💞️ I’m looking to collaborate on ROS2 projects
+- 🌱 I’m currently learning Mechatronic
+- 💞️ I’m looking to collaborate on 
 - 📫 My email: hoangha5657@gmail.com
 
 <!---
