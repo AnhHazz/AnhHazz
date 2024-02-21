@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnhHazz
+- 👋 Hi, I’m Tran Ha
 - 👀 I’m interested in Robotics
 - 🌱 I’m currently learning Mechatronic
 - 💞️ I’m looking to collaborate on 
